@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TODO",
+    "version": "1.0.0",
+    "slug": "jjingk-todo",
+    "sdkVersion": "25.0.0",
+    "android": {
+      "package": "com.jjingk.todo"
+    }
+  }
+}
